@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="680.314961pt" height="374.173228pt" viewBox="0 0 680.314961 374.173228" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-02T00:49:37.965913</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 374.173228 
+L 680.314961 374.173228 
+L 680.314961 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 295.937008 53.149606 
+L 295.937008 113.385827 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 169.795276 83.622047 
+L 295.937008 83.622047 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke-dasharray: 4.4,2.75; stroke-dashoffset: 0; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 295.937008 83.622047 
+L 422.07874 83.622047 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke-dasharray: 4.4,2.75; stroke-dashoffset: 0; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 45.070866 113.385827 
+L 588.614173 113.385827 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 45.070866 113.385827 
+L 45.070866 121.181102 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 588.614173 113.385827 
+L 588.614173 121.181102 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 295.937008 113.385827 
+L 295.937008 121.181102 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 45.070866 153.779528 
+L 45.070866 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 295.937008 153.779528 
+L 295.937008 175.748031 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 128.692913 175.748031 
+L 463.181102 175.748031 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 128.692913 175.748031 
+L 128.692913 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 212.314961 175.748031 
+L 212.314961 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 295.937008 175.748031 
+L 295.937008 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 379.559055 175.748031 
+L 379.559055 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 463.181102 175.748031 
+L 463.181102 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 588.614173 153.779528 
+L 588.614173 175.748031 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 546.80315 175.748031 
+L 630.425197 175.748031 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 546.80315 175.748031 
+L 546.80315 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_19">
+    <path d="M 630.425197 175.748031 
+L 630.425197 192.047244 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_20">
+    <path d="M 128.692913 224.645669 
+L 128.692913 257.244094 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_21">
+    <path d="M 212.314961 224.645669 
+L 212.314961 257.244094 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 295.937008 224.645669 
+L 295.937008 257.244094 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 379.559055 224.645669 
+L 379.559055 257.244094 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 17.007874 335.905512 
+L 53.858268 335.905512 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 17.007874 351.496063 
+L 53.858268 351.496063 
+" clip-path="url(#p3d3911fff3)" style="fill: none; stroke-dasharray: 4.4,2.75; stroke-dashoffset: 0; stroke: #1f3a5f; stroke-width: 1.1"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 242.07874 53.149606 
+L 349.795276 53.149606 
+L 349.795276 20.551181 
+L 242.07874 20.551181 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #dce6f2; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 70.582677 99.92126 
+L 169.795276 99.92126 
+L 169.795276 67.322835 
+L 70.582677 67.322835 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke-dasharray: 4.4,2.75; stroke-dashoffset: 0; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 422.07874 99.92126 
+L 521.291339 99.92126 
+L 521.291339 67.322835 
+L 422.07874 67.322835 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke-dasharray: 4.4,2.75; stroke-dashoffset: 0; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 2.551181 153.779528 
+L 87.590551 153.779528 
+L 87.590551 121.181102 
+L 2.551181 121.181102 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #eaf0f8; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 253.417323 153.779528 
+L 338.456693 153.779528 
+L 338.456693 121.181102 
+L 253.417323 121.181102 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #eaf0f8; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 546.094488 153.779528 
+L 631.133858 153.779528 
+L 631.133858 121.181102 
+L 546.094488 121.181102 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #eaf0f8; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 7.086614 224.645669 
+L 83.055118 224.645669 
+L 83.055118 192.047244 
+L 7.086614 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 90.708661 224.645669 
+L 166.677165 224.645669 
+L 166.677165 192.047244 
+L 90.708661 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 174.330709 224.645669 
+L 250.299213 224.645669 
+L 250.299213 192.047244 
+L 174.330709 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 257.952756 224.645669 
+L 333.92126 224.645669 
+L 333.92126 192.047244 
+L 257.952756 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 341.574803 224.645669 
+L 417.543307 224.645669 
+L 417.543307 192.047244 
+L 341.574803 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 425.19685 224.645669 
+L 501.165354 224.645669 
+L 501.165354 192.047244 
+L 425.19685 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 508.818898 224.645669 
+L 584.787402 224.645669 
+L 584.787402 192.047244 
+L 508.818898 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 592.440945 224.645669 
+L 668.409449 224.645669 
+L 668.409449 192.047244 
+L 592.440945 192.047244 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #f6f8fb; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 90.708661 289.84252 
+L 166.677165 289.84252 
+L 166.677165 257.244094 
+L 90.708661 257.244094 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 174.330709 289.84252 
+L 250.299213 289.84252 
+L 250.299213 257.244094 
+L 174.330709 257.244094 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 257.952756 289.84252 
+L 333.92126 289.84252 
+L 333.92126 257.244094 
+L 257.952756 257.244094 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 341.574803 289.84252 
+L 417.543307 289.84252 
+L 417.543307 257.244094 
+L 341.574803 257.244094 
+z
+" clip-path="url(#p3d3911fff3)" style="fill: #ffffff; stroke: #1f3a5f; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans'; text-anchor: start; fill: #111111" x="17.007874" y="314.645669" transform="rotate(-0 17.007874 314.645669)">Referencias</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.2px; font-family: 'Liberation Sans'; text-anchor: start" x="59.527559" y="337.798957" transform="rotate(-0 59.527559 337.798957)">Autoridad formal de línea</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.2px; font-family: 'Liberation Sans'; text-anchor: start" x="59.527559" y="353.389508" transform="rotate(-0 59.527559 353.389508)">Relación de staff (asesoramiento, sin autoridad de mando)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-style: italic; font-size: 6.6px; font-family: 'Liberation Sans'; text-anchor: end; fill: #666666" x="663.307087" y="358.582677" transform="rotate(-0 663.307087 358.582677)">Organigrama de Olí Ali · Elaboración propia · Octubre 2026</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="295.937008" y="34.045001" transform="rotate(-0 295.937008 34.045001)">Dirección General</text>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="295.937008" y="46.169562" transform="rotate(-0 295.937008 46.169562)">Dueño</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="120.188976" y="80.816654" transform="rotate(-0 120.188976 80.816654)">Asesoría Contable</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="120.188976" y="92.941216" transform="rotate(-0 120.188976 92.941216)">Estudio externo</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="471.685039" y="80.795825" transform="rotate(-0 471.685039 80.795825)">Sistemas y Desarrollo</text>
+   </g>
+   <g id="text_10">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="471.685039" y="92.941216" transform="rotate(-0 471.685039 92.941216)">Staff interno</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="45.070866" y="134.654093" transform="rotate(-0 45.070866 134.654093)">Compras</text>
+   </g>
+   <g id="text_12">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="45.070866" y="146.799483" transform="rotate(-0 45.070866 146.799483)">y Proveedores</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="295.937008" y="134.674922" transform="rotate(-0 295.937008 134.674922)">Comercialización</text>
+   </g>
+   <g id="text_14">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="295.937008" y="146.799483" transform="rotate(-0 295.937008 146.799483)">Ventas</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="588.614173" y="134.674922" transform="rotate(-0 588.614173 134.674922)">Administración</text>
+   </g>
+   <g id="text_16">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="588.614173" y="146.799483" transform="rotate(-0 588.614173 146.799483)">y Finanzas</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="45.070866" y="205.541064" transform="rotate(-0 45.070866 205.541064)">Depósito</text>
+   </g>
+   <g id="text_18">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="45.070866" y="217.692437" transform="rotate(-0 45.070866 217.692437)">y Recepción</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="128.692913" y="205.541064" transform="rotate(-0 128.692913 205.541064)">Suc. Núñez</text>
+   </g>
+   <g id="text_20">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="128.692913" y="217.665625" transform="rotate(-0 128.692913 217.665625)">Encargada</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="212.314961" y="205.520235" transform="rotate(-0 212.314961 205.520235)">Suc. Estrada</text>
+   </g>
+   <g id="text_22">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="212.314961" y="217.665625" transform="rotate(-0 212.314961 217.665625)">Encargada</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="295.937008" y="205.541064" transform="rotate(-0 295.937008 205.541064)">Suc. Pueyrredón</text>
+   </g>
+   <g id="text_24">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="295.937008" y="217.665625" transform="rotate(-0 295.937008 217.665625)">Encargada</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="379.559055" y="205.520235" transform="rotate(-0 379.559055 205.520235)">Suc. 9 de Julio</text>
+   </g>
+   <g id="text_26">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="379.559055" y="217.665625" transform="rotate(-0 379.559055 217.665625)">Encargada</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="463.181102" y="205.514746" transform="rotate(-0 463.181102 205.514746)">Canales Digitales</text>
+   </g>
+   <g id="text_28">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="463.181102" y="217.665625" transform="rotate(-0 463.181102 217.665625)">Redes y tienda online</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="546.80315" y="205.520235" transform="rotate(-0 546.80315 205.520235)">Caja</text>
+   </g>
+   <g id="text_30">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="546.80315" y="217.692437" transform="rotate(-0 546.80315 217.692437)">y Tesorería</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="630.425197" y="205.520235" transform="rotate(-0 630.425197 205.520235)">Personal</text>
+   </g>
+   <g id="text_32">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="630.425197" y="217.665625" transform="rotate(-0 630.425197 217.665625)">Horarios y legajos</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="128.692913" y="270.737914" transform="rotate(-0 128.692913 270.737914)">Salón de Ventas</text>
+   </g>
+   <g id="text_34">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="128.692913" y="282.862475" transform="rotate(-0 128.692913 282.862475)">Vendedoras</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="212.314961" y="270.737914" transform="rotate(-0 212.314961 270.737914)">Salón de Ventas</text>
+   </g>
+   <g id="text_36">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="212.314961" y="282.862475" transform="rotate(-0 212.314961 282.862475)">Vendedoras</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="295.937008" y="270.737914" transform="rotate(-0 295.937008 270.737914)">Salón de Ventas</text>
+   </g>
+   <g id="text_38">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="295.937008" y="282.862475" transform="rotate(-0 295.937008 282.862475)">Vendedoras</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #111111" x="379.559055" y="270.737914" transform="rotate(-0 379.559055 270.737914)">Salón de Ventas</text>
+   </g>
+   <g id="text_40">
+    <text style="font-style: italic; font-size: 6.4px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #444444" x="379.559055" y="282.862475" transform="rotate(-0 379.559055 282.862475)">Vendedoras</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3d3911fff3">
+   <rect x="0" y="0" width="680.314961" height="374.173228"/>
+  </clipPath>
+ </defs>
+</svg>
